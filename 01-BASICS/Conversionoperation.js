@@ -1,0 +1,12 @@
+//let score="33abc";
+//let score=null;
+//let score="gift";
+//let score=true;
+//console.log(typeof score);
+//console.log(typeof(score));
+//let valueInNumber=String(score);
+//console.log(typeof valueInNumber);
+let isloggedin="gift";
+let booleanisloggedin=Boolean(isloggedin);
+console.log(typeof boolean is );
+console.log(boolean is);
